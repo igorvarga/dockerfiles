@@ -1,1 +1,3 @@
-# dockerfiles
+# Colelction of Dockerfiles
+
+Development environmet mostly.
